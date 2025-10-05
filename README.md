@@ -12,7 +12,6 @@
 - 🔭 Currently a **Software Developer Intern @ AeroAspire**  
 - 🌱 Learning **React, TypeScript, Python, AI Agents**  
 - 💡 Passionate about building projects that make an impact  
-- ⚡ Fun Fact: I turn coffee ☕ into code  
 
 ---
 
@@ -48,18 +47,4 @@
 
 <p align="center">
   <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Atpdevil&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
-</p>
-
----
-
-### 🌌 Fun Add-ons
-- 🔮 "AI + Creativity = Future of Tech"  
-- 🏆 Always open for collaboration on **cool open-source projects**  
-- 🎯 Next Goal: Build AI-Powered Apps that actually solve problems  
-
----
-
-<h3 align="center">✨ Thank you for visiting my profile ✨</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200">
 </p>
