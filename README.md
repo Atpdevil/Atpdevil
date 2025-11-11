@@ -9,7 +9,6 @@
 ---
 
 ### 🌟 About Me  
-- 🔭 Currently a **Software Developer Intern @ AeroAspire**  
 - 🌱 Learning **React, TypeScript, Python, AI Agents**  
 - 💡 Passionate about building projects that make an impact  
 
