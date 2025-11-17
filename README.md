@@ -1,20 +1,20 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Atpdevil.Atpdevil" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gokul+Krishna!;+Software+Developer+Intern;Open-Source+Enthusiast;Tech+Explorer+🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gokul+Krishna!;+Software+Developer+Intern;Open-Source+Enthusiast;Tech+Explorer" />
 </h1>
 
 <h3 align="center">Pursuing Computer Science @ AMC Engineering College</h3>
 
 ---
 
-### 🌟 About Me  
-- 🌱 Learning **React, TypeScript, Python, AI Agents**  
-- 💡 Passionate about building projects that make an impact  
+### About Me  
+- Learning **React, TypeScript, Python, AI Agents**  
+- Passionate about building projects that make an impact  
 
 ---
 
-### 📬 Connect with Me  
+### Connect with Me  
 <p align="center">
   <a href="mailto:gokulteck@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/gokul-k-1b5123291"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -24,14 +24,14 @@
 
 ---
 
-### ⚒️ Languages | Frameworks | Tools ⚒️
+### Languages | Frameworks | Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,python,nodejs,mongodb,html,css,java,c,mysql,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,python,nodejs,mongodb,html,css,java,c,mysql,github,vscode,figma,nextjs" />
 </p>
 
 ---
 
-### 🐍 My Contributions
+### My Contributions
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Atpdevil/Atpdevil/output/github-contribution-grid-snake-dark.svg">
