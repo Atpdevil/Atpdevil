@@ -19,7 +19,7 @@
   <a href="mailto:gokulteck@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/gokul-k-1b5123291"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/_gokulkrishna.s"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://my-portfolio-one-psi-3hxobc7d9u.vercel.app/?style=for-the-badge&logo=Google-chrome&logoColor=white"/></a>
+  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://my-portfolio-one-psi-3hxobc7d9u.vercel.app?style=for-the-badge&logo=Google-chrome&logoColor=white"/></a>
 </p>
 
 ---
