@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   
-  <a href="https://my-portfolio-one-psi-3hxobc7d9u.vercel.app/">
+  <a href="https://3d-portfolio-gokul.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
