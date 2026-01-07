@@ -38,7 +38,7 @@
 
 ### Languages | Frameworks | Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,python,nodejs,mongodb,html,css,java,c,git,mysql,github,vscode,figma,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,python,nodejs,mongodb,html,css,java,c,git,mysql,github,vscode,figma,nextjs,blender" />
 </p>
 
 ---
