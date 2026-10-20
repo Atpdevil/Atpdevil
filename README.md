@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Atpdevil.Atpdevil" alt="Profile views" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Gokul+Krishna!;Full-Stack+Developer;AI+%2B+Embedded+Tinkerer;Hackathon+Runner-Up" alt="Typing banner" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=TrebuchetMS&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Gokul+Krishna!;Full-Stack+Developer;AI+%2B+Embedded+Tinkerer;Hackathon+Runner-Up" alt="Typing banner" />
 </h1>
 
 <h3 align="center">Pursuing Computer Science @ AMC Engineering College (2027)</h3>
