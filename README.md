@@ -38,7 +38,7 @@
 
 ### Languages | Frameworks | Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,react,typescript,javascript,python,nodejs,html,css,java,c,git,mysql,mongodb,github,vscode,nextjs,blender" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css,react,nextjs,nodejs,express,flask,arduino,opencv,numpy,matplotlib,sqlite,mysql,mongodb,git,github,docker,linux,vscode,blender,vercel" />
 </p>
 
 ---
